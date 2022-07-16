@@ -3,8 +3,8 @@
 email3@email.com, pass- 1234
 
 ### Team Mates
-1. Suraj Kumar, College TMSL (EVG ID: )
-2. Dev Raj Singh, College TMSL (EVG ID: 22EVGHPN906909)
+1. Suraj Kumar, College TMSL 
+2. Dev Raj Singh, College TMSL
 
 
 ## Inspiration
