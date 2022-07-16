@@ -1,4 +1,8 @@
-## Easy Pg
+#                                              🚗 Easy Pg 🚗
+video link of project => https://www.youtube.com/watch?v=hXM0BLfpLtQ&t=63s
+Devpost Link => https://devpost.com/software/easy-pg
+
+
 ## EMAIL AND PASSWORD (TEST):
 email3@email.com, pass- 1234
 
