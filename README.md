@@ -1,6 +1,6 @@
 #                                                                                     🚗 Easy Pg 🚗
 
-Live - easy-pg-backend.herokuapp.com/
+Live - https://easy-pg-backend.herokuapp.com/
 
 <br/>
 video link of project => https://www.youtube.com/watch?v=hXM0BLfpLtQ&t=63s
